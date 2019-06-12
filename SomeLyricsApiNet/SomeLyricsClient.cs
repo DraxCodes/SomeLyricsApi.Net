@@ -9,7 +9,7 @@ namespace SomeLyricsApiNet
 {
     public class SomeLyricsClient : ISomeLyricsClient
     {
-        public async Task<Lyric> GetBaseLyrics(string song)
+        public async Task<Lyric> GetBaseLyricsAsync(string song)
         {
             try
             {

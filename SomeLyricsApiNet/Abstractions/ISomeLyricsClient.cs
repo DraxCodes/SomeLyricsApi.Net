@@ -5,6 +5,6 @@ namespace SomeLyricsApiNet.Abstractions
 {
     public interface ISomeLyricsClient
     {
-        Task<Lyric> GetBaseLyrics(string song);
+        Task<Lyric> GetBaseLyricsAsync(string song);
     }
 }
