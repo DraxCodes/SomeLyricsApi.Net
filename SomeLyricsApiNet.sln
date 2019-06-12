@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeLyricsApiNet", "SomeLyricsApiNet\SomeLyricsApiNet.csproj", "{40D104D3-C87F-4222-871A-EA3FE7146690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeLyricsApiNet.Tests", "SomeLyricsApiNet.Tests\SomeLyricsApiNet.Tests.csproj", "{891A4B4F-E5F5-4FB6-BE25-B3DB64E4F7A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40D104D3-C87F-4222-871A-EA3FE7146690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D104D3-C87F-4222-871A-EA3FE7146690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D104D3-C87F-4222-871A-EA3FE7146690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891A4B4F-E5F5-4FB6-BE25-B3DB64E4F7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891A4B4F-E5F5-4FB6-BE25-B3DB64E4F7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891A4B4F-E5F5-4FB6-BE25-B3DB64E4F7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891A4B4F-E5F5-4FB6-BE25-B3DB64E4F7A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
